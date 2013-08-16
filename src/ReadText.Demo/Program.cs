@@ -1,12 +1,16 @@
 using System;
+using CommandLine;
+using CommandLine.Text;
 
 namespace ReadText.Demo
 {
-	class MainClass
+	class Program
 	{
-		public static void Main (string[] args)
+		public static void Main(string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+
+
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
