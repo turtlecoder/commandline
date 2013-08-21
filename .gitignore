@@ -8,6 +8,8 @@ src/CommandLine.FSharp/bin/*
 src/CommandLine.FSharp/obj
 src/CommandLine.FSharp.Tests/bin/*
 src/CommandLine.FSharp.Tests/obj
+src/ReadText.Demo/bin/*
+src/ReadText.Demo/obj
 src/templates/CSharpTemplate/bin/*
 src/templates/CSharpTemplate/obj 
 src/templates/VBNetTemplate/bin/*

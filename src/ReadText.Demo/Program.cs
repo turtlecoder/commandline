@@ -10,7 +10,7 @@ namespace ReadText.Demo
 		{
 
 
-			Console.WriteLine("Hello World!");
+
 		}
 	}
 }
