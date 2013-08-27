@@ -8,6 +8,9 @@ namespace ReadText.Demo
         [Option('q', "quiet",
                 HelpText = "Supresses summary messages.")]
         public bool Quiet { get; set; }
+
+        [Value(0)]
+        public string FileName { get; set; }
     }
 
     [Verb("head", HelpText = "Displays first lines of a file.")]
